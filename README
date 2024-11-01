@@ -1,0 +1,33 @@
+# Age Calculator 
+Application made with the purpose of learning and practicing new and already learned C++ skills
+
+## Libraries
+- SFML
+
+## Learned Topics
+- CMake
+- Vcpkg
+- Compiling
+- Template typename
+- Application Setup# Age Calculator 
+
+
+## Structure
+
+### Main
+- Contains Application methods to start app
+
+### App
+- Contains all loops, conditions, rendering, and input processing
+- Also containes all the used "scenes"
+
+### Menu
+- One of the "scenes"
+- Contains UI elements for Input of date of birth, buttons and calculation
+
+### Button
+- Contains MyButton class 
+- organizes and creates buttons in a flexible and dynamic way
+
+### buttonFunctions
+- contains all the functions which UI buttons may use
