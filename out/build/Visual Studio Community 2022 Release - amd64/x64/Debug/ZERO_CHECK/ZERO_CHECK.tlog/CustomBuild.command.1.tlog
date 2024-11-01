@@ -1,0 +1,10 @@
+^C:\USERS\ANGEL\DOCUMENTS\CODING\AGE_CALCULATOR\OUT\BUILD\VISUAL STUDIO COMMUNITY 2022 RELEASE - AMD64\CMAKEFILES\569F5AF96C79CF95CAD3F3E46E6C3D29\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/angel/Documents/coding/age_calculator "-BC:/Users/angel/Documents/coding/age_calculator/out/build/Visual Studio Community 2022 Release - amd64" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/angel/Documents/coding/age_calculator/out/build/Visual Studio Community 2022 Release - amd64/ageCalculator.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

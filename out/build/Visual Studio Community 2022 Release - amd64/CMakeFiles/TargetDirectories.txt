@@ -1,0 +1,3 @@
+C:/Users/angel/Documents/coding/age_calculator/out/build/Visual Studio Community 2022 Release - amd64/CMakeFiles/ageCalculator.dir
+C:/Users/angel/Documents/coding/age_calculator/out/build/Visual Studio Community 2022 Release - amd64/CMakeFiles/ALL_BUILD.dir
+C:/Users/angel/Documents/coding/age_calculator/out/build/Visual Studio Community 2022 Release - amd64/CMakeFiles/ZERO_CHECK.dir

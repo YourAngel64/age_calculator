@@ -1,0 +1,8 @@
+{
+    "C_Cpp.default.includePath": [
+        "C:\\Users\\angel\\Documents\\coding\\age_calculator\\vcpkg_installed\\x64-windows\\include"
+    ],
+    "files.associations": {
+        "iostream": "cpp"
+    }
+}
